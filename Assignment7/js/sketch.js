@@ -37,7 +37,7 @@ let lfo = new Tone.LFO({
 lfo.connect(osc.frequency);
 
 function preload() {
-  dangerImage = loadImage('media/dangersign.png');
+  dangerImage = loadImage('media/DangerSign.png');
 }
 
 function setup() {
