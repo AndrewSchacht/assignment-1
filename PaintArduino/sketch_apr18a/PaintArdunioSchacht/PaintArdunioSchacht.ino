@@ -1,7 +1,7 @@
 //Andrew Schacht
 //Youtube link - https://www.youtube.com/watch?v=lh9-_NFUgcg
-//Github - 
-//Github Pages -
+//Github - https://github.com/AndrewSchacht/csc2463/tree/main/PaintArduino
+//Github Pages - https://andrewschacht.github.io/csc2463/PaintArduino/index.html
 
 const int potPinX = A0;
 const int potPinY = A1;
