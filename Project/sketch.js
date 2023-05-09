@@ -1,5 +1,5 @@
 // youtube link - https://www.youtube.com/watch?v=tIuWrb-CJpU
-// github link - in moodle description 
+// github link - https://github.com/AndrewSchacht/csc2463/tree/main/Project
 // there are some parts of the code that were an speed function, but i could not get it to work with the joystick
 
 let synth1, synth2, synth3;
